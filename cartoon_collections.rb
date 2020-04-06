@@ -5,7 +5,7 @@ def greet_characters(array)
 greet.character.each {|array| print "Hello" + array}
 
 
-  
+
 end
 
 def list_dwarves(array)
